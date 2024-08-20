@@ -52,6 +52,7 @@ body{
     animation: moveleft 0.8s linear forwards;
 }
 
+/* move toast in window  */
 @keyframes moveleft{
     100%{
         transform: translateX(0);
